@@ -1,11 +1,14 @@
 {
-  "name": "sodium-browserify-tweetnacl",
+  "name": "@staltz/sodium-browserify-tweetnacl",
   "description": "",
-  "version": "0.2.4",
-  "homepage": "https://github.com/dominictarr/sodium-browserify-tweetnacl",
+  "version": "0.2.5",
+  "homepage": "https://github.com/staltz/sodium-browserify-tweetnacl",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dominictarr/sodium-browserify-tweetnacl.git"
+    "url": "git://github.com/staltz/sodium-browserify-tweetnacl.git"
+  },
+  "publishConfig": {
+	  "access": "public"
   },
   "dependencies": {
     "chloride-test": "^1.1.0",
